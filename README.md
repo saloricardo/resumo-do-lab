@@ -11,3 +11,6 @@ Mostrando algumas informações que alteram o valor final da máquina, como SLA,
 
 Sendo SLA entre 99% e 99.9999%, quantos mais 9 (ou numeros mais altos, maior a disponibilidade e menor o possivel tempo de indisponibilidade).
 A redundancia pode ser em diversas zonas ou por regiões geográficas.
+
+## Microsoft Azure - Configurando uma instância de Banco de Dados na Azure
+Foi mostrado o passo-a-passo de como criar uma máquina virtual e como criar uma instancia de banco de dados. Com isso foi explicado a diferença de um servidor full (IaaS) e o servidor que escolhemos/criamos na criação do banco de dados (PaaS).
