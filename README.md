@@ -14,3 +14,8 @@ A redundancia pode ser em diversas zonas ou por regiões geográficas.
 
 ## Microsoft Azure - Configurando uma instância de Banco de Dados na Azure
 Foi mostrado o passo-a-passo de como criar uma máquina virtual e como criar uma instancia de banco de dados. Com isso foi explicado a diferença de um servidor full (IaaS) e o servidor que escolhemos/criamos na criação do banco de dados (PaaS).
+
+## Microsoft Azure - Construindo Arquiteturas no Azure
+Criamos um grupo de Recurso e uma VNET para explorar os menus do Azure.
+
+![alt text](<resource_group.png>)
