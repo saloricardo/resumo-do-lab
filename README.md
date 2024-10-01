@@ -19,3 +19,6 @@ Foi mostrado o passo-a-passo de como criar uma máquina virtual e como criar uma
 Criamos um grupo de Recurso e uma VNET para explorar os menus do Azure.
 
 ![alt text](<resource_group.png>)
+
+## Microsoft Azure - Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
+Criamos uma máquina virtual passando por todas as opções disponiveis e sempre se aprofundando nas configurações mais importantes, como definição de maquinas, exclusão de máquinas e seus discos/inets. Também passamos sobre a criação de serviços, como Area de Trabalho Remota da Azure e funçoes.
